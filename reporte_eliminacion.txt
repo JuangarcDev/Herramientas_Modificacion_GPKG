@@ -1,0 +1,5 @@
+Total de registros en la tabla antes de la eliminación: 7642
+Total de registros eliminados: 6
+Total de registros inexistentes en el .txt: 0
+Registros inexistentes: Ninguno
+Total de registros en la tabla después de la eliminación: 7636
